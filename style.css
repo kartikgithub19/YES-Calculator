@@ -1,0 +1,37 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  background-image: url("123.jpg");
+  text-align: center;
+  align-items: center;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.disp {
+  width: 350px;
+  height: 80px;
+}
+
+h1 {
+  color: rgb(8, 0, 122);
+  font-size: 57px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+input {
+  width: 65px;
+  height: 65px;
+  font-size: 45px;
+  background-color: black;
+  color: white;
+  margin: 10px;
+  border: 5px;
+  border-radius: 5px;
+  border-style: none;
+
+}
+
+.btn {
+  background-color: rgb(58, 53, 53);
+}
